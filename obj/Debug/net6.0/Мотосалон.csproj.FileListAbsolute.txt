@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\bin\Debug\net6.0\Мотосалон.exe
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\bin\Debug\net6.0\Мотосалон.deps.json
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\bin\Debug\net6.0\Мотосалон.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\bin\Debug\net6.0\Мотосалон.dll
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\bin\Debug\net6.0\Мотосалон.pdb
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.dll
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\refint\Мотосалон.dll
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.pdb
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\ref\Мотосалон.dll
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Мотосалон\obj\Debug\net6.0\Мотосалон.csproj.CopyComplete
